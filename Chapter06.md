@@ -59,7 +59,7 @@ to be treated as for the purposes of type checking at compilation time.
 It's a good idea to explicitly type using `as` in cases like this where the
 type isn't implicit anyway, such as when instantiating a class.
 
-| :memo" | Interfaces do not get compiled to JavaScript in any way, shape, or form. They are entirely a TypeScript construct used at compile time. |
+| :memo: | Interfaces do not get compiled to JavaScript in any way, shape, or form. They are entirely a TypeScript construct used at compile time. |
 |-|:-|
 
 ## Namespaces and Modules
